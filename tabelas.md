@@ -1,11 +1,11 @@
 
-## Tabelas
+# Tabelas
 
 | Nome   | Gostosura |
 | ------ | ----- |
 | Batata | +8000    |
 
-### Alinhamento
+## Alinhamento
 
 | Esquerda   |   Centro   |    Direita |
 | :--------- | :--------: | ---------: |
