@@ -5,3 +5,7 @@ Batata
 
 Batata
 -
+
+## Linhas horizontais
+
+---
